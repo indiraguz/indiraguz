@@ -59,8 +59,9 @@ I’m passionate about learning new technologies, writing clean and efficient co
 ### Connect with me
 
 <div align="center">
-  <a href="[www.linkedin.com/in/aida-indira-ramírez-guzmán-162624199](https://www.linkedin.com/in/aida-indira-ram%C3%ADrez-guzm%C3%A1n-162624199/)" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/aida-indira-ram%C3%ADrez-guzm%C3%A1n-162624199/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+
   </a>
   <a href="https://www.instagram.com/indiraguz_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
