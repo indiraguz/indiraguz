@@ -1,11 +1,10 @@
 
 
-<h1 align="left">Hey 👋 Welcome to my GitHub!</h1>
+<h1 align="left">Hey 👋 Welcome to my debugging zone!</h1>
 
 <p align="left">
 I'm Indira, a Systems Engineering student with a strong interest in software development, data analysis, and problem solving.  
 I’m passionate about learning new technologies, writing clean and efficient code, and building solutions that add real value.  
-Currently exploring tools like Power BI, SQL, and backend frameworks to grow as a future full-stack developer.
 </p>
 
 ### 🚀 About Me
@@ -13,8 +12,7 @@ Currently exploring tools like Power BI, SQL, and backend frameworks to grow as 
 - 🐞 Creating bugs since 2022  
 - 🌱 Currently learning: Data analysis, backend dev & Power BI  
 - 🎯  Become a full-stack developer & contribute to open source  
-- 
-
+  
 ---
 
 ### 💻 I code with
