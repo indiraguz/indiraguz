@@ -7,13 +7,12 @@ I'm Indira, a Systems Engineering student with a strong interest in software dev
 I’m passionate about learning new technologies, writing clean and efficient code, and building solutions that add real value.  
 </p>
 
-### 🚀 About Me
+🚀 About Me  
+💻 Passionate about tech, coffee, and clean code.  
+🐞 Writing bugs since 2022 — fixing most of them 😅  
+🌱 Currently learning: Power BI, backend dev & data analytics  
+🎯 Goal: Become a full-stack developer & build things that matter
 
-- 🐞 Creating bugs since 2022  
-- 🌱 Currently learning: Data analysis, backend dev & Power BI  
-- 🎯  Become a full-stack developer & contribute to open source  
-  
----
 
 ### 💻 I code with
 
