@@ -9,8 +9,11 @@ I’m passionate about learning new technologies, writing clean and efficient co
 
 ### 🚀 About Me  
 💻 Passionate about tech, coffee, and clean code.  
+
 🐞 Writing bugs since 2022 — fixing most of them .
+
 🌱 Currently learning: Power BI, backend dev & data analytics.
+
 🎯 Goal: Become a full-stack developer & build things that matter.
 
 
